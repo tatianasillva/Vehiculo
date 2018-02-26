@@ -30,7 +30,7 @@ public class Parqueadero {
    
        
        
-      miFicha.miMotoEnFichavehiculo=miMoto; 
+   //   miFicha.miMotoEnFichavehiculo=miMoto; 
        
        
     }
