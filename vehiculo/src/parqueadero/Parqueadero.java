@@ -14,13 +14,20 @@ import vehiculo.Moto;
 public class Parqueadero {
     
     public static void main (String[] args ){
+        
+        
+        
+        Moto miMoto=new Moto();
        
-       
+        
+     
+        
         Fichavehiculo miFicha;
        miFicha=new Fichavehiculo();
       miFicha.setVisible(true);
-       
-       Moto miMoto=new Moto();
+      
+   
+   
        
        
       miFicha.miMotoEnFichavehiculo=miMoto; 
