@@ -19,6 +19,7 @@ public class Moto extends Vehiculo {
      }
      
      
+     @Override
      void  frenar (){
        
        
@@ -27,4 +28,18 @@ public class Moto extends Vehiculo {
      
      
      }  
+     
+     
+     
+     
+     void  derrapar (){
+       
+       
+       
+ System.out.println("");
+     
+     
+     }  
 }
+
+

@@ -13,15 +13,14 @@ public class Camion extends Vehiculo {
     
     
     
-     @Override
-     void acelerar(){
+     void cargar(){
        
        
      System.out.println("");
      }
      
      
-     void  frenar (){
+     void  descargar (){
        
        
        

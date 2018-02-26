@@ -5,20 +5,22 @@
  */
 package vehiculo;
 
+import parqueadero.Fichavehiculo;
+
 /**
  *
  * @author Estudiantes
  */
 public class Vehiculo {
 
-    
+   //Atributos 
     
    public String marca;
-   private int cilindraje;
-   private String modelo;
-   private int año;
+   public int cilindraje;
+   public String modelo;
+   public int año;
    
-   
+   //Metodos
    
    void acelerar(){
        
@@ -34,9 +36,16 @@ public class Vehiculo {
        
  System.out.println("freeeee");
        
-       
+   }      
+ 
+ 
+ 
+   
    }
-   }
+   
+   
+
+
    
    
    
